@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Sharma
 
-## 🚀 Frontend Developer & AI Enthusiast
+## 🚀 Frontend Developer & AI Enthusiast | Aspiring AI-Powered Software Developer
 
 🎓 B.Sc. Computer Science Student
 
