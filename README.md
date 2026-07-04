@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Sharma
 
-<!--
-**shubbhdev/shubbhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer & AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Sc. Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in Mumbai, India
+
+---
+
+## 💻 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- Supabase
+- Git & GitHub
+
+---
+
+## 🚀 Current Project
+
+### 💈 SalonAI
+
+An AI-powered salon booking platform with Customer and Salon Owner dashboards.
+
+Currently building features like AI recommendations, smart booking, and business analytics.
+
+---
+
+## 🌱 Currently Learning
+
+- AI Engineering
+- TypeScript
+- Open Source Contribution
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: shubbhdev@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/shubhsharmaaa/
+- instagram: https://www.instagram.com/shubhsharma.exe/
+
+---
+
+⭐ Thanks for visiting my profile!
