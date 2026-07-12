@@ -92,7 +92,7 @@ AI Powered Salon Management Platform
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,javascript"/>
 
 </p>
 
