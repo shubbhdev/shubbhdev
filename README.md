@@ -100,7 +100,7 @@ AI Powered Salon Management Platform
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,AI,chatGpt,claude ai,figma"/>
 
 </p>
 
